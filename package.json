@@ -1,0 +1,23 @@
+{
+  "name": "imdb",
+  "version": "1.0.0",
+  "description": "https://hetic.arcplex.fr/index.php/react-context/",
+  "main": "index.js",
+  "scripts": {
+    "front": "cd frontend && npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/domino659/imdb.git"
+  },
+  "author": "domino659",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/domino659/imdb/issues"
+  },
+  "homepage": "https://github.com/domino659/imdb#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "react-bootstrap": "^2.4.0"
+  }
+}
